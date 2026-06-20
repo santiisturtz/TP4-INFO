@@ -39,14 +39,14 @@ Partial Class TP1_1
         ' 
         ' txtNumeroUno
         ' 
-        txtNumeroUno.Location = New Point(87, 52)
+        txtNumeroUno.Location = New Point(87, 259)
         txtNumeroUno.Name = "txtNumeroUno"
         txtNumeroUno.Size = New Size(198, 31)
         txtNumeroUno.TabIndex = 1
         ' 
         ' txtNumeroDos
         ' 
-        txtNumeroDos.Location = New Point(468, 52)
+        txtNumeroDos.Location = New Point(480, 259)
         txtNumeroDos.Name = "txtNumeroDos"
         txtNumeroDos.Size = New Size(173, 31)
         txtNumeroDos.TabIndex = 2
@@ -59,7 +59,7 @@ Partial Class TP1_1
         lblResultado.Size = New Size(0, 25)
         lblResultado.TabIndex = 3
         ' 
-        ' Form1
+        ' TP1_1
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
@@ -68,7 +68,7 @@ Partial Class TP1_1
         Controls.Add(txtNumeroDos)
         Controls.Add(txtNumeroUno)
         Controls.Add(cmdEjecutar)
-        Name = "Form1"
+        Name = "TP1_1"
         Text = "Form1"
         ResumeLayout(False)
         PerformLayout()
