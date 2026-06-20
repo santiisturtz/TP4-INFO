@@ -30,7 +30,7 @@ Partial Class Form1
         ' 
         ' cmdEjecutar
         ' 
-        cmdEjecutar.Location = New Point(334, 133)
+        cmdEjecutar.Location = New Point(291, 130)
         cmdEjecutar.Name = "cmdEjecutar"
         cmdEjecutar.Size = New Size(171, 102)
         cmdEjecutar.TabIndex = 0
